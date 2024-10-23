@@ -1,0 +1,7 @@
+# orbital_parameters.yaml
+G: 6.67430e-11  
+M_sun: 1.989e30  
+M_earth: 5.972e24  
+M_moon: 7.342e22 
+d_earth_sun: 1.496e11 
+d_moon_earth: 3.844e8 
